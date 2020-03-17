@@ -5,4 +5,4 @@ Dữ liệu được lấy từ và xử lý bằng thư viện Pandas, các bi�
 Nguồn dữ liệu: [http://pcivietnam.org](http://pcivietnam.org)
   
   
-[![Chỉ số năng lực cạnh tranh cấp tỉnh - PCI](https://res.cloudinary.com/marcomontalbano/image/upload/v1584372827/video_to_markdown/images/youtube--iZlT89xmnJo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/iZlT89xmnJo "Chỉ số năng lực cạnh tranh cấp tỉnh - PCI")
+[![Chỉ số năng lực cạnh tranh cấp tỉnh - PCI](LOLIPOP-PLOT.jpg)](https://youtu.be/iZlT89xmnJo "Chỉ số năng lực cạnh tranh cấp tỉnh - PCI")
